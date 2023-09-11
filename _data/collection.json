@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Jay Rodriguez Interview" ] },
+    "summary": { "en": [ "Annotation of Jay Rodriguez's NAHJ trailblazer interview" ] },
+    "items": [
+    ]
+}
