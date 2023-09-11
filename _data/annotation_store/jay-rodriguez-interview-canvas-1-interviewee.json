@@ -1,0 +1,101 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Doriwill2.github.io/rodriguez-interview/annotations/jay-rodriguez-interview-canvas-1-interviewee.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jay-rodriguez-interview-canvas-1-interviewee-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Start of great depression year after his birth with six siblings (setting up background)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "197.0,255.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jay-rodriguez-interview-canvas-1-interviewee-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughed at the question about the presence of any other races in town or at school, offerred to go more into that (interesting chance for a follow up question)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "789.0,800.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jay-rodriguez-interview-canvas-1-interviewee-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Noted that \"the war\" started in '41 the year he went to high school (opportunity for follow up question to clarify)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "913.0,924.0"
+        }
+      }
+    }
+  ]
+}

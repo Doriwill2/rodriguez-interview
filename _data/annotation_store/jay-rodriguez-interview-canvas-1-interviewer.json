@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Doriwill2.github.io/rodriguez-interview/annotations/jay-rodriguez-interview-canvas-1-interviewer.json",
+  "type": "AnnotationPage",
+  "label": "Interviewer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jay-rodriguez-interview-canvas-1-interviewer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interveiwer was allowing space for Jay to answer, but Jay may have felt like he was rambling. (Establishing rhythym of interview)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.0,456.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jay-rodriguez-interview-canvas-1-interviewer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Circled back to the racial/georgraphical disparity in Laverne, created space for more annecdotes/detail there (follow up question)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "456.0,465.0"
+        }
+      }
+    }
+  ]
+}

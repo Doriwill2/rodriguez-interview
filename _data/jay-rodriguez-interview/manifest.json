@@ -23,6 +23,32 @@
         "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 7371.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Doriwill2.github.io/rodriguez-interview/annotations/jay-rodriguez-interview-canvas-1-interviewee-.json",
+            "label": {
+              "none": ["Interviewee "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Doriwill2.github.io/rodriguez-interview/annotations/jay-rodriguez-interview-canvas-1-interviewer.json",
+            "label": {
+              "none": ["Interviewer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Doriwill2.github.io/rodriguez-interview/annotations/jay-rodriguez-interview-canvas-1-interviewee.json",
+            "label": {
+              "none": ["Interviewee"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/paintings",
