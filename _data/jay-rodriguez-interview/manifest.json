@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Jay Rodriguez Interview" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/1040-rodriguez-jay",
+        "type": "Text",
+        "label": { "en": [ "Jay Rodriguez Interview" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 7371.0,
+        "items": [
+          {
+            "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia802900.us.archive.org/6/items/1040-rodriguez-jay/1040_Rodriguez_Jay.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 7371.0
+                },
+                "target": "https://Doriwill2.github.io/rodriguez-interview/jay-rodriguez-interview/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
